@@ -1,1 +1,1 @@
-# migrating typescript server to golang for efficiency of course🦄 
+# migrating nodejs course selling server to golang for efficiency of course🦄 
